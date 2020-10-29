@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jun Zhuang (庄隽)" # Edit
 title_separator          : "-"
 name                     : &name "Jun Zhuang" # Edit
-description              : &description "Ph.D. student, XXX" # Edit
+description              : &description "Ph.D. student, IUPUI" # Edit
 url                      : https://junzhuang-code.github.io # Edit: the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junzhuang-code.github.io" # Edit
@@ -102,18 +102,18 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jun-zhuang-74800957/"
+  linkedin         : "jun-zhuang-74800957"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/junzhuang_"
+  twitter          : "junzhuang_"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCWhgDFWKbyyI4gQlfVlBuLA"
+  youtube          : "UCWhgDFWKbyyI4gQlfVlBuLA"
   wikipedia        :
 
 
