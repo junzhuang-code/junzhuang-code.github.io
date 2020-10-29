@@ -11,7 +11,7 @@ author_profile: true
 <b>Employer</b>: The Min H. Kao Department of EE & CS, The University of Tennessee, Knoxville. <br>
 <b>Location</b>: Knoxville, TN, USA <br>
 <b>Date</b>: 06/2020 - 08/2020 <br>
-* Collaborated with Dr. Dali Wang to develop efficient deep learning algorithm for synthesizing 3D live microscopic images.
+* Collaborated with Dr. [Dali Wang](https://www.ornl.gov/staff-profile/dali-wang) to develop efficient deep learning algorithm for synthesizing 3D live microscopic images.
 
 ### Foreign Exchange Trading Specialist
 <b>Employer</b>: China Merchants Bank Co., Ltd. <br>
