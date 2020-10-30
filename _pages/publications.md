@@ -5,15 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-[//]: <> (
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-)
+<b>[Anti-perturbation of Online Social Networks by Graph Label Transition](https://junzhuang-code.github.io/publications/graphlt)</b> <br>
+<b>Jun Zhuang</b>, Mohammad Al Hasan.
+<b>ArXiv 2020</b>.
 
+<br>
+<b>[Geometrically Matched Multi-source Microscopic Image Synthesis Using Bidirectional Adversarial Networks](https://junzhuang-code.github.io/publications/banis)</b> <br>
+<b>Jun Zhuang</b>, Dali Wang.
+<b>ArXiv 2020</b>.
+
+<br>
 <b>[Into the Reverie: Exploration of the Dream Market](https://junzhuang-code.github.io/publications/dream_mkt)</b> <br> 
 Theo Carr, <b>Jun Zhuang</b>, Dwight Sablan, Emma LaRue, Yubao Wu, Mohammad Al Hasan, George Mohler.
 <i>2019 IEEE International Conference on Big Data</i>. <b>Big Data 2019</b>.
