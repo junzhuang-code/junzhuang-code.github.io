@@ -16,7 +16,7 @@ We find that the high degree of specialization among the small subset of high-re
 Further research is necessary to confirm these findings, which are restricted by the scarcity of ground-truth data for validation.
 
 <p align="center">
-  <img src="/images/pub_img/fig_dream_mkt.png?raw=true" style="width: 400px;"/> 
+  <img src="/images/pub_img/fig_dream_mkt.png?raw=true" style="width: 500px;"/> 
 </p>
 
 ## Citation
