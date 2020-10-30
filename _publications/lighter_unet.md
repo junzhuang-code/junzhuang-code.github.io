@@ -17,7 +17,7 @@ To solve these two issues, a new architecture, Lighter U-Net is proposed to rein
 The extensive experiments suggest that the proposed network achieves comparable performance as the state-of-the-art methods by only using 17% parameters of standard U-Net.
 
 <p align="center">
-  <img src="/images/pub_img/fig_lighter_unet.png?raw=true" style="width: 300px;"/> 
+  <img src="/images/pub_img/fig_lighter_unet.png?raw=true" style="width: 400px;"/> 
 </p>
 
 ## Citation
