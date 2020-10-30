@@ -21,5 +21,5 @@ Theo Carr, <b>Jun Zhuang</b>, Dwight Sablan, Emma LaRue, Yubao Wu, Mohammad Al H
 
 <br>
 <b>[Lighter U-net for segmenting white matter hyperintensities in MR images](https://junzhuang-code.github.io/publications/lighter_unet)</b> <br> 
-<b>Jun Zhuang</b>, Mingchen Gao, Mohammad AI Hasan.
+<b>Jun Zhuang</b>, Mingchen Gao, Mohammad Al Hasan.
 <i>Proceedings of the 16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services</i>. <b>MobiQuitous 2019</b>.
