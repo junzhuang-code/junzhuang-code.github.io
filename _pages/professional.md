@@ -35,3 +35,34 @@ author_profile: true
 
 ### OS and Platforms: 
 * MacOS, Linux, Android, AWS EC2, MySQL, GitHub.
+
+<br>
+
+# Teaching and Mentoring Experience
+
+### Teaching Assistant
+<b>Course</b>: CSCI54900 Intelligent Systems, IUPUI (Fall 2020) <br>
+* Delivered a [lecture](https://www.youtube.com/watch?v=mlJIh8cWHQs) to introduce the topic about genetic algorithm; Organized weekly meeting and instructed students on course project; Graded course assignments. <br>
+
+<b>Course</b>: CSCI58000 Algorithm, IUPUI (Spring 2019 / Fall 2020) <br>
+* Graded course writing and programming assignments; Instructed students to better understand the algorithms. <br>
+
+<b>Course</b>: CSCI57300 Data Mining, IUPUI (Fall 2019) <br>
+* Helped prepare course miscellaneous; Graded course assignments; Instructed students to understand the classic algorithms of data mining. <br>
+
+### Mentor
+<b>Program</b>: [Data Science Research Experience for Undergraduates (DSREU)](https://seiri.iupui.edu/externalawards/reudatascience.html) (Summer 2019) <br>
+* Assisted in DSREU summer bootcamp; Mentored undergraduate students on the academic research project. <br>
+
+<br>
+
+# PRESENTATIONS
+
+* <b>Lighter U-Net for Segmenting WMH in MR Images <span style="color:red">(Oral)</span></b>, MobiQuitous - TX (Fall 2019) <br>
+* <b>Exploration of Crypto-market <span style="color:red">(Oral)</span></b>, Graduate Student Symposium, School of Science, IUPUI - IN (Summer 2019) <br>
+
+<br>
+
+# ACADEMIC COMMUNITY SERVICES
+
+* <b>Technique Committee Member</b>, 1st International Workshop on EFIOT (In conj. with MobiQuitous 2019) - TX (Fall 2019) <br>
