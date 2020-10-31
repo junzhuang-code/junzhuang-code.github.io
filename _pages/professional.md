@@ -56,13 +56,13 @@ author_profile: true
 
 <br>
 
-# PRESENTATIONS
+# Presentations
 
 * <b>Lighter U-Net for Segmenting WMH in MR Images <span style="color:red">(Oral)</span></b>, MobiQuitous - TX (Fall 2019) <br>
 * <b>Exploration of Crypto-market <span style="color:red">(Oral)</span></b>, Graduate Student Symposium, School of Science, IUPUI - IN (Summer 2019) <br>
 
 <br>
 
-# ACADEMIC COMMUNITY SERVICES
+# Academic Community Services
 
 * <b>Technique Committee Member</b>, 1st International Workshop on EFIOT (In conj. with MobiQuitous 2019) - TX (Fall 2019) <br>
