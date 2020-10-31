@@ -22,7 +22,7 @@ To address these issues, we propose a novel graph label transition model, named 
 Extensive experiments demonstrate that GraphLT can not only considerably enhance the performance of the node classifier in a clean environment but also successfully remedy the classifier with superior performance over competing methods on seven benchmark datasets after graph perturbation.
 
 <p align="center">
-  <img src="/images/pub_img/fig_graphlt.png?raw=true" style="width: 500px;"/> 
+  <img src="/images/pub_img/fig_graphlt.png?raw=true" style="width: 700px;"/> 
 </p>
 
 ## Citation
