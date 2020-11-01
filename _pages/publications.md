@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Publications [(Google Scholar)](https://scholar.google.com/citations?hl=zh-CN&user=Hdc90UMAAAAJ)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[(Google Scholar)](https://scholar.google.com/citations?hl=zh-CN&user=Hdc90UMAAAAJ)
 
 <b>[Anti-perturbation of Online Social Networks by Graph Label Transition](https://junzhuang-code.github.io/publications/graphlt)</b> <br>
 <b>Jun Zhuang</b>, Mohammad Al Hasan.
