@@ -5,7 +5,7 @@ permalink: /professional/
 author_profile: true
 ---
 
-# Professional Experience [(LinkedIn)](https://www.linkedin.com/in/jun-zhuang-74800957/)
+# Professional Experience [[LinkedIn]](https://www.linkedin.com/in/jun-zhuang-74800957/)
 
 ### Research Intern
 <b>Employer</b>: [The Min H. Kao Department of EE & CS, The University of Tennessee, Knoxville.](https://www.eecs.utk.edu/) <br>
