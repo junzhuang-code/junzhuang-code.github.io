@@ -19,3 +19,15 @@ redirect_from:
 
 # Contact
 Email: junz [AT] iu [DOT] edu
+
+# News
+* 2021-07: I have a presentation "Assessment of Reinforcement Learning for T1D Glycemic Control" in Roche Diabetes Care, Inc.!
+* 2021-06: My paper "Non-Exhaustive Learning Using Gaussian Mixture Generative Adversarial Networks" is accepted in ECML-PKDD conference (research track)!
+* 2021-05: I start a 10-week summer internship in Roche Diabetes Care, Inc.
+* 2021-03: I have a presentation in MICAD conference!
+* 2021-02: My paper "Geometrically Matched Multi-source Microscopic Image Synthesis Using Bidirectional Adversarial Networks" is accepted in MICAD conference!
+* 2020-06: I start a 10-week summer internship in The University of Tennessee, Knoxville, Collaborated with Dr. Dali Wang.
+* 2019-11: I have a presentation in MobiQuitous conference!
+* 2019-10: My paper "Into the Reverie: Exploration of the Dream Market" is accepted in IEEE BigData conference!
+* 2019-10: My paper "Lighter U-Net for Segmenting White Matter Hyperintensities in MR Images" is accepted in MobiQuitous conference!
+* 2019-08: I'm invited to present my work "Exploration of Crypto-market" in Graduate Student Symposium, School of Science, IUPUI!
