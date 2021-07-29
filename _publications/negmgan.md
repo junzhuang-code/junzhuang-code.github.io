@@ -14,9 +14,9 @@ Supervised learning, while deployed in real-life scenarios, often encounters ins
 </p>
 
 ## Citation
-@inproceedings{zhuang2021non,
-  title={Non-Exhaustive Learning Using Gaussian Mixture Generative Adversarial Networks},
-  author={Zhuang, Jun and Hasan, Mohammad Al},
-  journal={Proceedings of the ECML/PKDD},
-  year={2021}
+@inproceedings{zhuang2021non,  <br>
+  title={Non-Exhaustive Learning Using Gaussian Mixture Generative Adversarial Networks},  <br>
+  author={Zhuang, Jun and Hasan, Mohammad Al},  <br>
+  journal={Proceedings of the ECML/PKDD},  <br>
+  year={2021}  <br>
 }
