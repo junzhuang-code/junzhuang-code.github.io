@@ -1,34 +1,26 @@
 ---
-title: "Anti-perturbation of Online Social Networks by Graph Label Transition"
+title: "Deperturbation of Online Social Networks via Bayesian Label Transition"
 collection: publications
 permalink: /publications/graphlt
 ---
 
-[[Paper]](https://arxiv.org/abs/2010.14121)
+[[Paper]]([https://arxiv.org/abs/2010.14121](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.68))
 
 ## Abstract
-Numerous popular online social networks (OSN) would classify users into different categories and recommend users to each other with similar interests. 
-A small number of users, so-called perturbators, may perform some types of behaviors, which significantly disturb such an OSN classifier. 
-Manual annotation by OSN administrators is one kind of potential solutions. 
-However, the manual annotation unavoidably brings into noise. Besides, such perturbators are not Sybil users, and therefore their accounts cannot be frozen. 
-To improve the robustness of such an OSN classifier, we generalize this issue as the defense of Graph Convolutional Networks (GCNs) on the node classification task. 
-Most existing defenses on this task can be divided into the adversarial-based method and the detection-based method. 
-The adversarial-based method improves the robustness of GCNs by training with adversarial samples. 
-However, in our case, the perturbators are hard to be distinguished by OSN administrators and thus we cannot use adversarial samples in the training phase. 
-By contrast, the detection-based method aims at detecting the attacker nodes or edges and alleviates the negative impact by removing them. 
-In our scenario, nevertheless, the perturbators are not the attacker and thus cannot be eliminated. 
-Both methods could not solve the aforementioned problems. 
-To address these issues, we propose a novel graph label transition model, named GraphLT, to improve the robustness of the OSN classifier by transiting the node latent representation based on dynamic conditional label transition. 
-Extensive experiments demonstrate that GraphLT can not only considerably enhance the performance of the node classifier in a clean environment but also successfully remedy the classifier with superior performance over competing methods on seven benchmark datasets after graph perturbation.
+Online social networks (OSNs) classify users into different categories based on their online activities and interests, a task which is referred as a node classification task. Such a task can be solved effectively using Graph Convolutional Networks (GCNs). However, a small number of users, so-called perturbators, may perform random activities on an OSN, which significantly deteriorate the performance of a GCN-based node classification task. Existing works in this direction defend GCNs either by adversarial training or by identifying the attacker nodes followed by their removal. However, both of these approaches require that the attack patterns or attacker nodes be identified first, which is difficult in the scenario when the number of perturbator nodes is very small. In this work, we develop a GCN defense model, namely GraphLT, which uses the concept of label transition. GraphLT assumes that perturbators' random activities deteriorate GCN's performance. To overcome this issue, GraphLT subsequently uses a novel Bayesian label transition model, which takes GCN's predicted labels and applies label transitions by Gibbs-sampling-based inference and thus repairs GCN's prediction to achieve better node classification. Extensive experiments on seven benchmark datasets show that GraphLT considerably enhances the performance of the node classifier in an unperturbed environment; furthermore, it validates that GraphLT can successfully repair a GCN-based node classifier with superior performance than several competing methods.
 
 <p align="center">
   <img src="/images/pub_img/fig_graphlt.png?raw=true" style="width: 700px;"/> 
 </p>
 
 ## Citation
-@inproceedings{zhuang2020anti, <br>
-  title={Anti-perturbation of Online Social Networks by Graph Label Transition}, <br>
-  author={Zhuang, Jun and Al Hasan, Mohammad}, <br>
-  journal={arXiv preprint arXiv:2010.14121}, <br>
-  year={2020} <br>
+```
+@inproceedings{zhuang2022deperturbation,
+  title={Deperturbation of Online Social Networks via Bayesian Label Transition},
+  author={Zhuang, Jun and Al Hasan, Mohammad},
+  booktitle={Proceedings of the 2022 SIAM International Conference on Data Mining (SDM)},
+  pages={603--611},
+  year={2022},
+  organization={SIAM}
 }
+```
