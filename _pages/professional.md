@@ -7,10 +7,21 @@ author_profile: true
 
 # Professional Experience [[LinkedIn]](https://www.linkedin.com/in/jun-zhuang-74800957/)
 
+### Ph.D. Software Engineer Intern
+<b>Employer</b>: [Uber Technologies, Inc.](https://www.uber.com/us/en/about/) <br>
+<b>Location</b>: Sunnyvale, CA, USA <br>
+<b>Date</b>: 05/2022 - 08/2022 <br>
+<b>Mentor</b>: Dr. [Qi Wei](https://sites.google.com/site/qiweiunivcambridge/home) <br>
+* Queried data using PrestoDB;
+* Improved the OT-level ETA model by ensemble regression approaches in the coordinated structure pricing framework for trip pricing;
+* Proposed a new metric to measure the market equilibrium;
+* Wrote unit tests to cover the model.
+
 ### Algorithms and Advanced Analytics Intern
 <b>Employer</b>: [Roche Diabetes Care, Inc.](https://www.roche.com/partnering/diagnostics-areas-of-interest/diabetes-management.htm) <br>
 <b>Location</b>: Indianapolis, IN, USA <br>
 <b>Date</b>: 05/2021 - 07/2021 <br>
+<b>Mentor</b>: Dr. [Siva Chittajallu](https://www.linkedin.com/in/siva-chittajallu-5972918) <br>
 * Explored reinforcement learning techniques, e.g., DQN and Actor-Critic, to control the glycemic risk;
 * Employed auto-encoding recurrent networks to predict the insulin intake of T1D and investigated how to handle the prediction uncertainty in time-series data.
 
@@ -18,7 +29,8 @@ author_profile: true
 <b>Employer</b>: [The Min H. Kao Department of EE & CS, The University of Tennessee, Knoxville.](https://www.eecs.utk.edu/) <br>
 <b>Location</b>: Knoxville, TN, USA <br>
 <b>Date</b>: 06/2020 - 08/2020 <br>
-* Collaborated with Dr. [Dali Wang](https://www.ornl.gov/staff-profile/dali-wang) to develop efficient deep learning algorithm for synthesizing 3D live microscopic images.
+<b>Mentor</b>: Dr. [Dali Wang](https://www.ornl.gov/staff-profile/dali-wang) <br>
+* Developed an efficient deep learning algorithm for synthesizing 3D live microscopic images.
 
 ### Foreign Exchange Trading Specialist
 <b>Employer</b>: [China Merchants Bank Co., Ltd.](http://english.cmbchina.com/) <br>
@@ -35,10 +47,10 @@ author_profile: true
 # Professional Skills
 
 ### Programming Languages:
-* Python (5 yrs+), R (1 yr), C/C++ (2 yrs), Java (1 yr), MATLAB, CUDA, HTML+CSS+JavaScript.
+* Python (6 yrs+), R (1 yr), C/C++ (2 yrs), Java (1 yr), MATLAB, CUDA, HTML+CSS+JavaScript.
 
 ### Tools: 
-* TensorFlow with Keras, PyTorch, Linux, AWS EC2, MySQL, MongoDB, Git.
+* TensorFlow with Keras, PyTorch, Linux, AWS EC2, MySQL, PrestoDB, Git.
 
 ### Statistics: 
 * linear & logistic regression, Bayesian inference, K-means & expectation–maximization, support vector machine, random forest, XGBoost, Markov chain Monte Carlo methods (Gibbs sampling), hidden Markov models, principal component analysis, etc.
@@ -67,6 +79,8 @@ author_profile: true
 <br>
 
 # Presentations
+* <b>Deperturbation of Online Social Networks via Bayesian Label Transition <span style="color:red">(Oral)</span></b>, SDM - VIRTUAL (Spring 2022) <br>
+* <b>Non-Exhaustive Learning Using Gaussian Mixture Generative Adversarial Networks <span style="color:red">(Oral)</span></b>, ECML-PKDD - VIRTUAL (Fall 2021) <br>
 * <b>Assessment of Reinforcement Learning for T1D Glycemic Control <span style="color:red">(Oral & Poster)</span></b>, Roche Diabetes Care, Inc. - IN, USA (Summer 2021) <br>
 * <b>Geometrically Matched Multi-source Microscopic Image Synthesis Using Bidirectional Adversarial Network <span style="color:red">(Oral)</span></b>, MICAD - Birmingham, UK (Spring 2021) <br>
 * <b>Lighter U-Net for Segmenting White Matter Hyperintensities in MR Images <span style="color:red">(Oral)</span></b>, MobiQuitous - TX, USA (Fall 2019) <br>
@@ -75,5 +89,4 @@ author_profile: true
 <br>
 
 # Academic Community Services
-* <b>Technique Committee Member</b>, MICAD 21’, MobiQuitous 19’. <br>
-* <b>Reviewer</b>, SigKDD 21’, VCIP 21’, MICAD 21’, MobiQuitous 19’, ISM 17’. <br>
+* <b>TC/PC Members:</b> AAAI’22, CIKM’22, SIGKDD’21, VCIP’21, MICAD’21, MobiQuitous’19, ISM’17, etc. <br>
