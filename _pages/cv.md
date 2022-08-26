@@ -9,5 +9,4 @@ redirect_from:
 
 <iframe src="/files/JunZhuang_CV_full.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my full CV [here](/files/JunZhuang_CV_full.pdf).
-
+Jun's CV can be downloaded [here](/files/JunZhuang_CV.pdf).
