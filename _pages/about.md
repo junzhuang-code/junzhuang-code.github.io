@@ -21,6 +21,7 @@ redirect_from:
 Email: junz [AT] iu [DOT] edu
 
 # News
+* 2022-08: Jun is awarded SIGIR Student Travel Grant for CIKM 2022 conference.
 * 2022-08: One paper "Robust Node Classification on Graphs: Jointly from Bayesian Label Transition and Topology-based Label Propagation" is accepted for CIKM 2022 Conference.
 * 2022-02: One paper "How Does Bayesian Noisy Self-Supervision Defend Graph Convolutional Networks?" is published in Neural Process Lett Journal.
 * 2021-12: One paper "Deperturbation of Online Social Networks via Bayesian Label Transition" is accepted for SIAM SDM 2022 Conference.
