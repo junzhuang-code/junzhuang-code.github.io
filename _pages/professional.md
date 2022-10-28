@@ -79,6 +79,7 @@ author_profile: true
 <br>
 
 # Presentations
+* <b>Robust Node Classification on Graphs: Jointly from Bayesian Label Transition and Topology-based Label Propagation <span style="color:red">(Oral)</span></b>, CIKM - GA, USA (Fall 2022) <br>
 * <b>Deperturbation of Online Social Networks via Bayesian Label Transition <span style="color:red">(Oral)</span></b>, SDM - VIRTUAL (Spring 2022) <br>
 * <b>Non-Exhaustive Learning Using Gaussian Mixture Generative Adversarial Networks <span style="color:red">(Oral)</span></b>, ECML-PKDD - VIRTUAL (Fall 2021) <br>
 * <b>Assessment of Reinforcement Learning for T1D Glycemic Control <span style="color:red">(Oral & Poster)</span></b>, Roche Diabetes Care, Inc. - IN, USA (Summer 2021) <br>
