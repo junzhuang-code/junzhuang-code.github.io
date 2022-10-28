@@ -6,7 +6,7 @@ author_profile: true
 ---
 [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=Hdc90UMAAAAJ)
 
-<b>[Robust Node Classification on Graphs: Jointly from Bayesian Label Transition and Topology-based Label Propagation](https://arxiv.org/abs/2208.09779)</b> <br>
+<b>[Robust Node Classification on Graphs: Jointly from Bayesian Label Transition and Topology-based Label Propagation](https://dl.acm.org/doi/abs/10.1145/3511808.3557437)</b> <br>
 <b>Jun Zhuang</b>, Mohammad Al Hasan. <i>Proceedings of the 31st ACM International Conference on Information & Knowledge Management. 2022.</i> <br>
 
 <b>[Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision](https://ojs.aaai.org/index.php/AAAI/article/view/20362)</b> <br>
