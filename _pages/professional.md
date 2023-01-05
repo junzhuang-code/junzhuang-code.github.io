@@ -47,7 +47,7 @@ author_profile: true
 # Professional Skills
 
 ### Programming Languages:
-* Python (6 yrs+), R (1 yr), C/C++ (2 yrs), Java (1 yr), MATLAB, CUDA, HTML+CSS+JavaScript.
+* Python (7 yrs+), R (1 yr), C/C++ (2 yrs), Java (1 yr), MATLAB, CUDA, HTML+CSS+JavaScript.
 
 ### Tools: 
 * TensorFlow with Keras, PyTorch, Linux, AWS EC2, MySQL, PrestoDB, Git.
@@ -90,4 +90,4 @@ author_profile: true
 <br>
 
 # Academic Community Services
-* <b>TC/PC Members:</b> AAAI’22, CIKM’22, SIGKDD’21, VCIP’21, MICAD’21, MobiQuitous’19, ISM’17, etc. <br>
+* <b>TC/PC Members & Reviewers:</b> TKDE, AAAI’22, CIKM’22, SIGKDD’21, VCIP’21, MICAD’21, MobiQuitous’19, ISM’17, etc. <br>
