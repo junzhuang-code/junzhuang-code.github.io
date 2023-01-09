@@ -15,10 +15,11 @@ redirect_from:
 
 * Jun Zhuang is currently a Ph.D. candidate in computer science (CS) at [Indiana University-Purdue University Indianapolis (IUPUI)](https://science.iupui.edu/), advised by Prof. [Mohammad Al Hasan](http://dmgroup.cs.iupui.edu/home.php). Prior to joining IUPUI, Jun gained a M.S. degree in CS from [University at Buffalo (UB)](http://www.buffalo.edu/) in 2018, advised by Prof. [Mingchen Gao](https://cse.buffalo.edu/~mgao8/).
 * In recent two years, he is interested in developing robust deep neural networks via Bayesian approaches and Generative models. His research interests include (but are not limited to) Bayesian statistics for graph representation learning, Open-set recognition, Biomedical image synthesis & segmentation, etc.
-* This Fall, he is actively looking for a new grad position in Software Engineer, Machine Learning Engineer, Applied Scientist, etc.
+* This Spring, he is actively looking for opportunities in the job market.
+<!-- * This Fall, he is actively looking for a new grad position in Software Engineer, Machine Learning Engineer, Applied Scientist, etc. -->
 
 # Contact
-Email: junz [AT] iu [DOT] edu
+Email: junz [AT] iu [DOT] edu, zhuang38 [AT] purdue [DOT] edu
 
 # News
 * 2022-08: Jun is awarded SIGIR Student Travel Grant for CIKM 2022 conference.
