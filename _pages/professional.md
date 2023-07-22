@@ -7,6 +7,11 @@ author_profile: true
 
 # Professional Experience [[LinkedIn]](https://www.linkedin.com/in/jun-zhuang-74800957/)
 
+### Assistant Professor
+<b>Employer</b>: [Boise State University](https://www.boisestate.edu/coen-cs/) <br>
+<b>Location</b>: Boise, ID, USA <br>
+<b>Date</b>: 07/2023 - present <br>
+
 ### Ph.D. Software Engineer Intern
 <b>Employer</b>: [Uber Technologies, Inc.](https://www.uber.com/us/en/about/) <br>
 <b>Location</b>: Sunnyvale, CA, USA <br>
@@ -36,10 +41,8 @@ author_profile: true
 <b>Employer</b>: [China Merchants Bank Co., Ltd.](http://english.cmbchina.com/) <br>
 <b>Location</b>: Guangzhou, Guangdong, China <br>
 <b>Date</b>: 01/2014 - 07/2016 <br>
-* Executed transaction order and cash management;
-* Performed fixed income research and employed statistical model to predict the trend of foreign exchange rate;
-* Developed a program to classify transaction data and processed large scale data;
-* Provided Anti-money-laundering investigation's support as a due diligence measure on highest risk customers;
+* Executed transaction orders and cash management;
+* Provided Anti-money-laundering investigation support as a due diligence measure on highest-risk customers;
 * Ensured transactions comply with the regulation of foreign exchange in Mainland China.
 
 <br>
@@ -56,7 +59,7 @@ author_profile: true
 * linear & logistic regression, Bayesian inference, K-means & expectation–maximization, support vector machine, random forest, XGBoost, Markov chain Monte Carlo methods (Gibbs sampling), hidden Markov models, principal component analysis, etc.
 
 ### Soft Skills: 
-* programming in fast-paced work environment, multi-tasking, critical thinking, effective communication, proactive problem solving, etc.
+* programming in the fast-paced work environment, multi-tasking, critical thinking, effective communication, proactive problem solving, etc.
 
 <br>
 
