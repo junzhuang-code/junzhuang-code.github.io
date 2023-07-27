@@ -20,7 +20,8 @@ redirect_from:
 
 
 # Contact
-Email: junzhuang [AT] boisestate [DOT] edu
+<span style="color:red">Email</span></b>: junzhuang [AT] boisestate [DOT] edu
+
 
 # News
 * 2023-07: Jun joined the computer science department at Boise State University as an assistant professor.
