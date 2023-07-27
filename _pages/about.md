@@ -16,11 +16,11 @@ redirect_from:
 * Jun Zhuang is an Assistant Professor in Computer Science at [Boise State University](https://www.boisestate.edu/coen-cs/). Prior to joining Boise State University, he obtained a Ph.D. degree in Computer Science at [Indiana University-Purdue University Indianapolis (IUPUI)](https://science.iupui.edu/) in 2023, advised by Prof. [Mohammad Al Hasan](http://cs.iupui.edu/~alhasan/), and received an M.S. degree in Computer Science from [University at Buffalo (UB)](http://www.buffalo.edu/) in 2018, advised by Prof. [Mingchen Gao](https://cse.buffalo.edu/~mgao8/).
 * In recent two years, he has been interested in developing robust deep neural networks via Bayesian approaches and Generative models.
 <!-- *His research interests include (but are not limited to) Bayesian statistics for graph representation learning, Open-set recognition, Biomedical image synthesis & segmentation, etc.-->
-* He is looking for highly self-motivated Ph.D. students who are generally interested in **trustworthy graph machine learning** or **quantum machine learning**. Please send him an email with your CV if you are interested.
+* <span style="color:red">He is looking for highly self-motivated Ph.D. students who are generally interested in **trustworthy graph machine learning** or **quantum machine learning**. Please send him an email with your CV if you are interested.</span>
 
 
 # Contact
-<span style="color:red">Email</span></b>: junzhuang [AT] boisestate [DOT] edu
+Email: junzhuang [AT] boisestate [DOT] edu
 
 
 # News
