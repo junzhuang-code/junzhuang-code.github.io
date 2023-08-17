@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jun Zhuang" # Edit
   avatar           : "profile.png"
-  bio              : "Assistant Professor, Computer Science, Boise State University" # Edit
+  bio              : "Assistant Professor,\n Computer Science,\n Boise State University" # Edit
   location         : "Boise, ID, USA"
   employer         :
   pubmed           :
