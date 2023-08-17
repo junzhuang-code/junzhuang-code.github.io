@@ -21,12 +21,12 @@ redirect_from:
 * <span style="color:red">He is looking for highly self-motivated Ph.D. students generally interested in his research topics.</span>
 * Please send him an email with the title “Ph.D. Application (Fall24) - {Name} - {Research Interests}” and the following information.
   1. Introduce your **education, technical, and research background** in your CV;
-  2. Introduce your **motivation** (why do you want to pursue a Ph.D. degree?), your **past research experience** (what are the connections between our research interests?), your **future research interests** (how my research can help you; please feel free to propose any idea that you would like to work with me), and your **future career plan** (what’s your plan after graduation?).
-* <span style="color:red">Prospective students</span> are expected to be passionate about research. Strong programming skills and a solid foundation in statistics will be a big plus. Students with other STEM majors are welcome to contact me.
-* What can I do for my Ph.D. students?
+  2. Introduce your **motivation** (why do you want to pursue a Ph.D. degree?), your **past research experience** (what are the connections between both research interests?), your **future research interests** (how Jun's research can help you; please feel free to propose any idea that you would like to work with Jun), and your **future career plan** (what’s your plan after graduation?).
+* <span style="color:red">Prospective students</span> are expected to be passionate about research. Strong programming skills and a solid foundation in statistics will be a big plus. Students with other STEM majors are welcome.
+* How Jun helps his Ph.D. students?
   1. Provide weekly hands-on instructions on their research projects;
   2. Collaborate with students on top-tier conference (or journal) papers;
-  3. Help students build strong professional profiles for future career.
+  3. Help students build strong professional profiles for future careers.
 
 
 # Contact
