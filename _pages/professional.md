@@ -65,6 +65,9 @@ author_profile: true
 
 # Teaching and Mentoring Experience
 
+### Instructor
+<b>Course</b>: CS533 Introduction to Data Science, Boise State (Fall 2023) <br>
+
 ### Teaching Assistant
 <b>Course</b>: CSCI58000 Algorithm, IUPUI (Spring 2019 / Fall 2020 / Spring 2021) <br>
 * Graded course writing and programming assignments; Helped students better understand the algorithms. <br>
@@ -93,4 +96,4 @@ author_profile: true
 <br>
 
 # Academic Community Services
-* <b>TC/PC Members & Reviewers:</b> TKDE, AAAI’22, CIKM’22, SIGKDD’21, VCIP’21, MICAD’21, MobiQuitous’19, ISM’17, etc. <br>
+* <b>TC/PC Members & Reviewers:</b> TKDE, AAAI’22/'23, CIKM’22/'23, SIGKDD’21, VCIP’21, MICAD’21, MobiQuitous’19, ISM’17, etc. <br>
