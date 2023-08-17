@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jun Zhuang (庄隽)" # Edit
 title_separator          : "-"
 name                     : &name "Jun Zhuang" # Edit
-description              : &description "Ph.D., IUPUI" # Edit
+description              : &description "Assistant Professor, Computer Science, Boise State University" # Edit
 url                      : https://junzhuang-code.github.io # Edit: the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junzhuang-code.github.io" # Edit
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jun Zhuang" # Edit
   avatar           : "profile.png"
-  bio              : "Ph.D., IUPUI" # Edit
+  bio              : "Assistant Professor, Computer Science, Boise State University" # Edit
   location         : "Boise, ID, USA"
   employer         :
   pubmed           :
