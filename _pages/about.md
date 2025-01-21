@@ -66,9 +66,9 @@ redirect_from:
 * **Foreign Exchange Trading Specialist**, China Merchants Bank Co., Ltd., China (Jan14 - Jul16)
 
 # Contact
-* **Email**: junzhuang [AT] boisestate [DOT] edu
-* **Office**: CCP 354
-* **Address**: 777 W Main St., Boise, ID 83702
+* Email: junzhuang [AT] boisestate [DOT] edu
+* Office: CCP 354
+* Address: 777 W Main St., Boise, ID 83702
 
 # News
 * 2025-01: One survey paper "Investigating and Mitigating Barren Plateaus in Variational Quantum Circuits: A Survey" has been accepted for publishing in the Quantum Information Processing (QIP) journal.
