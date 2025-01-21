@@ -42,6 +42,7 @@ redirect_from:
 * CS533 Introduction to Data Science (Fa23, Fa24)
 * CS597 Deep Learning (Sp25)
 * CS695 Capstone Course (Sp25)
+
 ### Mentor
 * [DS REU](https://seiri.indianapolis.iu.edu/externalawards/reudatascience.html): Data Science of Risk and Human Activity (Su19)
 * [Blockchain REU](https://sites.google.com/boisestate.edu/breu): Embracing Blockchain for a Secure and Trustworthy Tomorrow (Su24)
