@@ -24,7 +24,7 @@ redirect_from:
   1. Introduce your **education, technical, and research background** in your CV;
   2. Introduce your **motivation** (why do you want to pursue a Ph.D. degree?), your **past research experience** (what are the connections between both research interests?), your **future research interests** (how Jun's research can help you; please feel free to propose any idea that you would like to work with Jun), and your **future career plan** (what’s your plan after graduation?).
 * <span style="color:red">Prospective students</span> are expected to be passionate about research. Strong programming skills and a solid foundation in statistics will be a big plus. Students with other STEM majors are welcome.
-* How Jun helps his Ph.D. students?
+* How does Jun help his Ph.D. students?
   1. Provide weekly hands-on instructions on their research projects;
   2. Collaborate with students on top-tier conference (or journal) papers;
   3. Help students build strong professional profiles for future careers.
@@ -58,7 +58,7 @@ redirect_from:
 * Reviewer(s): ICML, NeurIPS, ICLR, AAAI, ECAI, ICCV, MICCAI, SIGKDD, CIKM, ECML-PKDD (DISTINGUISHED PC MEMBER'25), AISTATS, QCE, TKDE, TNNLS, etc.
 * Panelist(s): NSF’24, DOE’24.
 * Session chair(s): CIKM’24.
-* Workshop Co-organizer(s):
+* Workshop co-organizer(s):
   1. [Trustworthy and Responsible AI (TRAI)](https://responsible-ai.wiki/cikm24/index.html) @ CIKM’24.
   2. [Quantum Computing and Reinforcement Learning (QCRL)](https://2025.qcrl.io/) @ QCE’25.
 
@@ -84,7 +84,7 @@ redirect_from:
 * 2025-08: One paper, "Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation", is accepted to the Findings of EMNLP 2025.
 * 2025-07: Jun attends the Alzheimer's Association International Conference [(AAIC)](https://aaic.alz.org/releases-2025/highlights-aaic-2025.asp) online.
 * 2025-06: One paper, "NQNN: Noise-aware Quantum Neural Networks for Medical Image Classification", is accepted to MICCAI 2025. Congrats to Maqsudur!
-* 2025-06: Keystone achievement!!! Gratefully acknowledge the support from the National Science Foundation (NSF) for the **CRII Award** on bridging classical and quantum models for robust neural networks via Bayesian inference.
+* 2025-06: Keystone achievement!!! Gratefully acknowledge the support from the National Science Foundation (**NSF**) for the **CRII Award** on bridging classical and quantum models for robust neural networks via Bayesian inference.
 * 2025-01: One survey paper, "Investigating and Mitigating Barren Plateaus in Variational Quantum Circuits: A Survey", has been accepted for publication in the Quantum Information Processing (QIP) journal.
 * 2024-10: Jun attends a [QED-C annual meeting](https://quantumconsortium.org/current-plenary-agenda/) in Seattle, WA.
 * 2024-10: Jun co-organizes a [TRAI workshop](https://responsible-ai.wiki/cikm24/index.html) and serves as a session chair at CIKM’24 in Boise, ID.
