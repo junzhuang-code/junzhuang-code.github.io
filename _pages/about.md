@@ -31,10 +31,10 @@ redirect_from:
 
 ### Current Students
 * Ph.D. Student(s): Maqsudur Rahman.
-* M.S. Student(s): Chia-Ying Wu, Shipra Kumari.
+* M.S. Student(s): Samjhana Pokharel.
 
 ### Alumni
-* M.S. Student(s): Jack Cunningham.
+* M.S. Student(s): Jack Cunningham, Chia-Ying Wu, Shipra Kumari.
 
 # Teaching and Mentoring
 ### Instructor
@@ -75,6 +75,8 @@ redirect_from:
 * Address: 777 W Main St., Boise, ID 83702
 
 # News
+* 2026-03: One paper, "PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection", is accepted to the main track of CVPR 2026.
+* 2026-01: One paper, "Now You Hear Me: Audio Narrative Attacks Against Large Audio–Language Models", is accepted to EACL 2026.
 * 2025-12: Jun attends the [36th International Symposium on ALS/MND](https://symposium.mndassociation.org/) in San Diego, CA.
 * 2025-11: Jun is recognized as a **Distinguished Program Committee Member** for the Research Track of ECML-PKDD 2025.
 * 2025-11: Two papers are accepted to AAAI 2026: "QAPNet: A Quantum-Attentive Patchwise Network for Robust Medical Image Classification under Noisy Inputs" (Main track, AR 17.6%) and "Fair Graph Learning with Limited Sensitive Attribute Information" (AISI track, AR 24.1%). Big congrats to our brilliant collaborators and Maqsudur!
